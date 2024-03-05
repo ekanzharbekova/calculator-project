@@ -139,7 +139,7 @@ function App() {
   return (
     <div className="app">
       <div className="links">
-        <a href="https://github.com/abhishekkokate/react-calculator" target="_blank"> <p>GitHub</p> <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
+        <a href="https://github.com/ekanzharbekova/calculator-project" target="_blank"> <p>GitHub</p> <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
       </div>
       <div className="calculator-grid">
         <div className="output">
